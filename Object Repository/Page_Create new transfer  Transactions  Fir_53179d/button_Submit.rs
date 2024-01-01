@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_email</name>
+   <name>button_Submit</name>
    <tag></tag>
-   <elementGuidId>7e8896a2-8827-4c1a-b8cc-0000b304d3b5</elementGuidId>
+   <elementGuidId>13748b97-795f-49ad-bf81-fd7cfb9db3af</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='focus']</value>
+         <value>//button[@id='submitButton']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#focus</value>
+         <value>#submitButton</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,74 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>c9ff557c-814b-41ba-9fd0-6a2ce40930fe</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>f0bcf029-497f-4ceb-afd0-e411436ee482</webElementGuid>
+      <value>button</value>
+      <webElementGuid>de132c6d-2f37-4b98-aefc-638b1360797d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>focus</value>
-      <webElementGuid>0d77bf96-04ec-45a8-b87b-8c2fceaa63e3</webElementGuid>
+      <value>submitButton</value>
+      <webElementGuid>46b4a305-6f4e-42a9-ac73-09ba99593328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>93a2883d-a4a4-4ab2-9be5-7bd3bf2f0d33</webElementGuid>
+      <value>btn btn-success</value>
+      <webElementGuid>c7ba2b0b-b9e4-4662-9576-e801dfbdef1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>text</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>fe9327c3-0f60-441a-8f3d-5551c025e8b9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Email address</value>
-      <webElementGuid>10291b66-fad6-4800-89ab-42ca5959b974</webElementGuid>
+      <value>Submit
+                        </value>
+      <webElementGuid>22411365-5123-44bd-b6b4-2eb2f99350ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;focus&quot;)</value>
-      <webElementGuid>58f22375-c9ba-4dbc-a758-ca90d84604a6</webElementGuid>
+      <value>id(&quot;submitButton&quot;)</value>
+      <webElementGuid>711267a4-be9c-4655-995f-5476c163cbc3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='focus']</value>
-      <webElementGuid>04dc6b4e-452d-4dd5-ab72-a72fb9245094</webElementGuid>
+      <value>//button[@id='submitButton']</value>
+      <webElementGuid>e8c430ea-64c6-4262-9a69-d0d80fcd7ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section[2]/form/div[2]/div/div/div[3]/div/button</value>
+      <webElementGuid>eab6feab-1c90-40a9-be9f-cce374876e39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
-      <webElementGuid>2b36bb7c-e922-4cd1-87c7-6785686d0a3b</webElementGuid>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>8b47d83c-4bcb-4815-8298-5173b12802b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'email' and @id = 'focus' and @name = 'email' and @placeholder = 'Email address']</value>
-      <webElementGuid>b0bf23eb-ed36-47b6-bf0c-fc681a3815ab</webElementGuid>
+      <value>//button[@id = 'submitButton' and (text() = 'Submit
+                        ' or . = 'Submit
+                        ')]</value>
+      <webElementGuid>a5491b77-b3b4-45e7-9fa5-8cd2d49e43e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

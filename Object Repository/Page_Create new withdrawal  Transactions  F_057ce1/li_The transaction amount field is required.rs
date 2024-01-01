@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign in</name>
+   <name>li_The transaction amount field is required</name>
    <tag></tag>
-   <elementGuidId>858d9d76-ee73-458a-abb6-2df972cf3931</elementGuidId>
+   <elementGuidId>f217d8c9-b177-433a-bd15-0dbd42f9012c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//div[@id='amount-info']/div/ul/li</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.btn-block</value>
+         <value>li.text-danger</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,63 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>887b90e5-71b4-4599-9a8e-5bb38954c19b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>6c2b74e9-2fff-4273-9a76-0e12f638b425</webElementGuid>
+      <value>li</value>
+      <webElementGuid>2d0fb00a-bfda-4e68-a57f-694e04851ab6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block</value>
-      <webElementGuid>9c65102d-61ff-4472-8988-171f51377ee2</webElementGuid>
+      <value>text-danger</value>
+      <webElementGuid>58937840-b9b9-4ce5-9635-5e7e5736721c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign in</value>
-      <webElementGuid>91a59356-566d-462e-a2ff-d76f0d8abe4d</webElementGuid>
+      <value>The transaction amount field is required.</value>
+      <webElementGuid>cbca4661-046c-408f-87ac-7e5599b8d095</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;login-page&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body login-card-body&quot;]/form[1]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;btn btn-primary btn-block&quot;]</value>
-      <webElementGuid>4b2191a5-c498-4954-8f81-f829ce40543c</webElementGuid>
+      <value>id(&quot;amount-info&quot;)/div[@class=&quot;form-group has-error&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>d03cb4cb-68c2-4499-babe-7bfd08907e02</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>ff3fef90-90b1-4440-87d2-6ec0e022c55a</webElementGuid>
+      <value>//div[@id='amount-info']/div/ul/li</value>
+      <webElementGuid>80b4c659-0db3-44a7-9f17-940ee96171fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>30ff0e30-6820-4dd9-b1f9-8e22a63ce002</webElementGuid>
+      <value>//div[2]/div/ul/li</value>
+      <webElementGuid>ed21006a-2988-4055-b0ee-59437f01fac2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>75a303d4-8266-47b6-bb6b-c97c32d565e1</webElementGuid>
+      <value>//li[(text() = 'The transaction amount field is required.' or . = 'The transaction amount field is required.')]</value>
+      <webElementGuid>e05d4c1e-c6d4-4011-a8d3-c95f2e4ed4c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

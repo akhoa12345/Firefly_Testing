@@ -17,3 +17,38 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:8080/login')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login to Firefly III/input_email'), 'phunganhkhoa12345@gmail.com')
+
+WebUI.click(findTestObject('Object Repository/Page_Login to Firefly III/body_Sign in to start your session         _0d74a1'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login to Firefly III/input_password'), 'QBaYa1hmvGu0qm+2Ttlriu3oOofCPYgzT7HSS7+32Ck=')
+
+WebUI.click(findTestObject('Object Repository/Page_Login to Firefly III/button_Sign in'))
+
+WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Transactions'))
+
+WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Expenses'))
+
+WebUI.click(findTestObject('Object Repository/Page_All expenses between January 1st, 2024_d388e7/a_Create a new transaction'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new withdrawal  Transactions  F_057ce1/input_description'), 
+    'Tiền tiết kiệm')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new withdrawal  Transactions  F_057ce1/input_amount'), '350')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new withdrawal  Transactions  F_057ce1/input_category'), 'Tiền tiết kiệm')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new withdrawal  Transactions  F_057ce1/input_ti-new-tag-input ti-valid'), 
+    'Tiền tiết kiệm')
+
+WebUI.click(findTestObject('Object Repository/Page_Create new withdrawal  Transactions  F_057ce1/button_Submit'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create new withdrawal  Transactions  F_057ce1/div_Error There was something wrong with yo_ffab21'), 
+    0)
+
+WebUI.closeBrowser()
+

@@ -17,3 +17,46 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:8080/login')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login to Firefly III/input_email'), 'phunganhkhoa12345@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login to Firefly III/input_password'), 'QBaYa1hmvGu0qm+2Ttlriu3oOofCPYgzT7HSS7+32Ck=')
+
+WebUI.click(findTestObject('Object Repository/Page_Login to Firefly III/button_Sign in'))
+
+WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Transactions'))
+
+WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Transfers'))
+
+WebUI.click(findTestObject('Object Repository/Page_All transfers between January 1st, 202_702cdb/a_Create a new transaction'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/input_description'), 
+    'Tiền tiết kiệm')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/input_source'), '')
+
+WebUI.click(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/input_source'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/a_Checking Account (898.00)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/input_destination'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/a_Savings Account (102.00)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/input_amount'), '300')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/input_category'), 'Tiền tiết kiệm')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/input_ti-new-tag-input ti-valid'), 
+    'Tiền tiết kiệm')
+
+WebUI.click(findTestObject('Object Repository/Page_Create new transfer  Transactions  Fir_53179d/button_Submit'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_All transfers between January 1st, 202_702cdb/div_Close                Success           _88ced3'), 
+    0)
+
+WebUI.closeBrowser()
+

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign in</name>
+   <name>li_The transactions.0.description must be b_162e67</name>
    <tag></tag>
-   <elementGuidId>858d9d76-ee73-458a-abb6-2df972cf3931</elementGuidId>
+   <elementGuidId>e2bf5700-ab33-4526-a617-700326cdd26a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//div[@id='transaction-info']/div/div[2]/ul/li</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.btn-block</value>
+         <value>li.text-danger</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,63 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>887b90e5-71b4-4599-9a8e-5bb38954c19b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>6c2b74e9-2fff-4273-9a76-0e12f638b425</webElementGuid>
+      <value>li</value>
+      <webElementGuid>e5e76454-8cb3-485f-af57-2443cd991f4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block</value>
-      <webElementGuid>9c65102d-61ff-4472-8988-171f51377ee2</webElementGuid>
+      <value>text-danger</value>
+      <webElementGuid>af784c13-46cf-4add-b7ab-642e7b52bf27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign in</value>
-      <webElementGuid>91a59356-566d-462e-a2ff-d76f0d8abe4d</webElementGuid>
+      <value>The transactions.0.description must be between 1 and 1000 characters.</value>
+      <webElementGuid>13b0c9dd-acbf-4d7d-82de-c7090107aefb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;login-page&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body login-card-body&quot;]/form[1]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;btn btn-primary btn-block&quot;]</value>
-      <webElementGuid>4b2191a5-c498-4954-8f81-f829ce40543c</webElementGuid>
+      <value>id(&quot;transaction-info&quot;)/div[@class=&quot;form-group has-error&quot;]/div[@class=&quot;col-sm-12&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>4d39962b-ee9e-4824-8b32-e57ebe9b547c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>ff3fef90-90b1-4440-87d2-6ec0e022c55a</webElementGuid>
+      <value>//div[@id='transaction-info']/div/div[2]/ul/li</value>
+      <webElementGuid>02397eb5-3c31-4d51-a2d5-af244cc66cbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>30ff0e30-6820-4dd9-b1f9-8e22a63ce002</webElementGuid>
+      <value>//div[2]/ul/li</value>
+      <webElementGuid>d19af393-d714-4821-90e8-3917dc27398d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>75a303d4-8266-47b6-bb6b-c97c32d565e1</webElementGuid>
+      <value>//li[(text() = 'The transactions.0.description must be between 1 and 1000 characters.' or . = 'The transactions.0.description must be between 1 and 1000 characters.')]</value>
+      <webElementGuid>60e5238c-0f54-4538-8ab3-0e77de8091b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

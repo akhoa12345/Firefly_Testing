@@ -17,3 +17,47 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:8080/login')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login to Firefly III/input_email'), 'phunganhkhoa12345@gmail.com')
+
+WebUI.click(findTestObject('Object Repository/Page_Login to Firefly III/div_Sign in to start your session          _4f6a7f'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login to Firefly III/input_password'), 'QBaYa1hmvGu0qm+2Ttlriu3oOofCPYgzT7HSS7+32Ck=')
+
+WebUI.click(findTestObject('Object Repository/Page_Login to Firefly III/button_Sign in'))
+
+WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Transactions'))
+
+WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_Revenue  income'))
+
+WebUI.click(findTestObject('Object Repository/Page_All revenue between January 1st, 2024 _e17e7d/a_Create a new transaction'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new deposit  Transactions  Firefly III/input_description'), 
+    'Salary')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new deposit  Transactions  Firefly III/input_source'), 'Công ty FPT')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new deposit  Transactions  Firefly III/input_destination'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/Page_Create new deposit  Transactions  Firefly III/input_destination'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create new deposit  Transactions  Firefly III/a_Checking Account (500.00)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new deposit  Transactions  Firefly III/input_amount'), '600')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new deposit  Transactions  Firefly III/input_category'), 'Lương')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create new deposit  Transactions  Firefly III/input_ti-new-tag-input ti-valid'), 
+    'Lương')
+
+WebUI.click(findTestObject('Object Repository/Page_Create new deposit  Transactions  Firefly III/button_Submit'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_All revenue between January 1st, 2024 _e17e7d/div_Close                Success           _950311'), 
+    0)
+
+WebUI.closeBrowser()
+
