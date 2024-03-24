@@ -6,12 +6,12 @@
    <elementGuidId>e3dba084-f675-43d9-865b-6720a175c695</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='password']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;password&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7e03ddd4-7358-4fae-a2e9-0b1655821c4b</webElementGuid>
+      <webElementGuid>a73a9825-ddbb-4d8e-9f0a-ec3f07f42e79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>d5304262-a93b-4be8-bac4-d5c12210d46c</webElementGuid>
+      <webElementGuid>73a19d0f-385c-4048-b8dd-3999a2dfce62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>c84a4ad1-764b-44d4-a168-32e8a0bfe1b9</webElementGuid>
+      <webElementGuid>df0c6f5d-b4aa-48ee-bf8d-ad8bf79728e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>current-password</value>
-      <webElementGuid>beac308b-e085-429d-9d64-5724eed28d28</webElementGuid>
+      <webElementGuid>81f570fe-b46b-4332-be20-2536b8b86173</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>7dff8b48-54ff-4e3e-8e73-66d5364552b9</webElementGuid>
+      <webElementGuid>1e47d251-6bbd-40bd-be9b-e9f7145202cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>91fa1367-c2da-4e65-af80-a54c88128673</webElementGuid>
+      <webElementGuid>569d2727-d24e-4198-9dfb-0bbacf073d5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;login-page&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body login-card-body&quot;]/form[1]/div[@class=&quot;input-group mb-3&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>05d48319-db49-4469-8796-a8cf0c5bc831</webElementGuid>
+      <webElementGuid>9b81c9ff-a27e-402c-8b3e-f76f21d6792f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='password']</value>
-      <webElementGuid>b00ab891-1f2e-4341-a7e6-0c3b25d42723</webElementGuid>
+      <webElementGuid>f2629857-8b66-4b7e-8560-bc49b500cc0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>845bfecf-71d0-4305-ad75-693070ad8269</webElementGuid>
+      <webElementGuid>bb610774-745c-4018-9fde-a1eed1398226</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>b583adaf-27f2-4ae3-afab-98c97c09f6b3</webElementGuid>
+      <webElementGuid>ac61d0e5-f75d-4daf-b3df-1f5b7796fa8a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>75563001-0866-4000-99dd-d799b3f4b115</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/section[2]/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.alert.alert-success.alert-dismissible</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/section[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6796d87d-71f8-4840-96c3-1b2803ace346</webElementGuid>
+      <webElementGuid>56408b85-f6ae-4f48-9f15-939e0bab1e21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>alert alert-success alert-dismissible</value>
-      <webElementGuid>224c9bc8-c97b-42ba-9816-8cfba4b72156</webElementGuid>
+      <webElementGuid>a51fd065-5451-4458-bd99-cce3e0195eb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>alert</value>
-      <webElementGuid>4a7dddf3-fcdc-4399-afa0-fcb1ad204c49</webElementGuid>
+      <webElementGuid>8c11626b-0a0e-4660-b71f-13b20c89e0f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
                         Store new piggy bank &quot;Iphone 13&quot;
         
     </value>
-      <webElementGuid>5f9a7b1a-33bc-462b-b0c7-09969bf2019c</webElementGuid>
+      <webElementGuid>b5a930a2-c385-4154-a174-8c4050fcc486</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;alert alert-success alert-dismissible&quot;]</value>
-      <webElementGuid>b863994f-6f01-44cd-8a25-22023fdf7452</webElementGuid>
+      <webElementGuid>6fc7d54b-1287-4f6a-bac7-1fd112c292b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/section[2]/div</value>
-      <webElementGuid>206eb1cc-6a61-4294-ba2c-46f0277c30ac</webElementGuid>
+      <webElementGuid>b10ca65d-1906-4f51-ad87-eb2dac37ffb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[2]/div</value>
-      <webElementGuid>d670e57d-aa67-44b9-ad48-a72427268a73</webElementGuid>
+      <webElementGuid>937df321-0170-44d1-90bd-8f2a100791f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +99,6 @@
                         Store new piggy bank &quot;Iphone 13&quot;
         
     ')]</value>
-      <webElementGuid>74e08481-bc15-4d9c-8d9e-d04f7f28401b</webElementGuid>
+      <webElementGuid>9122e76a-256a-4e75-86ee-69ae268b8034</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

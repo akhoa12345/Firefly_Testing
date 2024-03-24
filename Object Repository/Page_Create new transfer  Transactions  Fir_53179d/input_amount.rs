@@ -6,12 +6,12 @@
    <elementGuidId>beb81b76-4692-459b-aed4-711495207d19</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='amount[]']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;amount[]&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='amount[]']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7e8b50b1-bc09-4eef-918a-51ed66dd6d99</webElementGuid>
+      <webElementGuid>3ae47fa8-3d6a-44b1-a04d-6cd292fb4c04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fe2a016b-fe29-475d-902f-f70ce9361037</webElementGuid>
+      <webElementGuid>db65ba64-bab2-47af-8563-1f83c611cf29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Amount</value>
-      <webElementGuid>96bce252-be69-48c0-81ab-12ea881fb2cf</webElementGuid>
+      <webElementGuid>e3072c95-1297-4923-95a4-3ec74e7d07f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>bc0da3ef-ddfe-42d9-86dc-109e2508f8e4</webElementGuid>
+      <webElementGuid>5b2d5aa5-4c6e-491b-a13a-0ca62f2d03a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>amount[]</value>
-      <webElementGuid>192fd5b9-5356-4906-9996-1f3fad6a66c5</webElementGuid>
+      <webElementGuid>63f68284-0026-46ef-893e-ac2b49014a0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>step</name>
       <type>Main</type>
       <value>any</value>
-      <webElementGuid>cd44841d-772f-45d3-b3f1-b06d1bbb5b10</webElementGuid>
+      <webElementGuid>b0ab7a48-6e31-464e-97aa-23e0a4714d2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>a737e289-d25b-4632-82e1-734b670a25ce</webElementGuid>
+      <webElementGuid>58204b2d-2e34-4895-81d0-461a9222428e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Amount</value>
-      <webElementGuid>e72717ab-2077-425d-97d9-f7502f80179c</webElementGuid>
+      <webElementGuid>98b10752-465b-4758-8082-fc2b365df5d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>3baf13f5-5e1c-484e-a6e3-4f3029dab229</webElementGuid>
+      <webElementGuid>7f7bb3dd-479e-42e7-b345-29929c88e7b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;amount-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>0bd0dfc4-da12-4195-aba1-81a4667b1464</webElementGuid>
+      <webElementGuid>b1d027ff-0dc1-41fa-a683-6884ef38d5bd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='amount[]']</value>
-      <webElementGuid>da2fdb1d-2cbf-4884-8fed-61ec5482c98d</webElementGuid>
+      <webElementGuid>7ac6ab13-dc19-45fe-b843-e24745f8b8e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='amount-info']/div/div[2]/div/input</value>
-      <webElementGuid>ef57bd6f-748a-4783-916e-3e1e38e82dc1</webElementGuid>
+      <webElementGuid>f7ec8764-7baa-4905-b4f8-35c2a005be67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/input</value>
-      <webElementGuid>8c233d59-2a1a-4298-b232-f586f5ff476b</webElementGuid>
+      <webElementGuid>2953b6dd-41e2-46d9-a6e1-1f8914669334</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@title = 'Amount' and @name = 'amount[]' and @type = 'number' and @placeholder = 'Amount']</value>
-      <webElementGuid>9bd40993-e6f0-4440-95e4-b697787144a5</webElementGuid>
+      <webElementGuid>aa11138c-9b3e-4ae3-bd9e-85c5d14bb453</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

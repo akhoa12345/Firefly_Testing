@@ -6,12 +6,12 @@
    <elementGuidId>7a881279-cb70-436b-b4d4-0013fd91c8f9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//textarea[@id='ffInput_notes']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#ffInput_notes</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='ffInput_notes']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>2628a4fa-3008-41e3-87ba-af32a0dc3b10</webElementGuid>
+      <webElementGuid>22434d06-d2d2-4d30-bccb-a2d8c20a8817</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>af447744-d986-4cda-ac4e-a536ebd3ef7f</webElementGuid>
+      <webElementGuid>1b8a9ca4-29d6-40fe-b79a-42779c8f0d98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>notes</value>
-      <webElementGuid>e56a400c-6ab5-408a-8c2d-e12066422cd4</webElementGuid>
+      <webElementGuid>22f880bd-ae44-4fcd-8b11-b62b181ef86f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_notes</value>
-      <webElementGuid>b3e71a31-a83a-44c7-ace6-d2feadcdcb2f</webElementGuid>
+      <webElementGuid>af2e0543-ab3a-45ef-bde8-374f55fb9428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>7bbc33f9-7842-486f-b26b-ba0efb718ea9</webElementGuid>
+      <webElementGuid>118ee185-6cd9-4d1c-bc8d-1bd86bc4a325</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>db3f4da8-7dc8-4f9b-8311-3fbad99b70d0</webElementGuid>
+      <webElementGuid>47fa0e32-7ee2-4e75-ae6f-2ba9c417e956</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3bda366b-159b-4983-a03d-e250cc790ccb</webElementGuid>
+      <webElementGuid>255eb8c3-3073-4abf-a505-d2b619da9dac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Notes</value>
-      <webElementGuid>1a9e8bea-61e1-4c39-b7e3-ed2d7a97ccb4</webElementGuid>
+      <webElementGuid>fdcc591f-e87e-4a6f-add7-7fe3ef0b47dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_notes&quot;)</value>
-      <webElementGuid>47262f3c-dc39-4068-86ac-307c8de3e74d</webElementGuid>
+      <webElementGuid>6a36fb9a-c197-4703-9a75-94a9b4701e5f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='ffInput_notes']</value>
-      <webElementGuid>e3cf0960-8ab0-4ac8-9b7a-e580c06dafcd</webElementGuid>
+      <webElementGuid>032503e9-52dc-4d20-aa56-df7990dc468f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='notes_holder']/div/textarea</value>
-      <webElementGuid>631238e4-3fce-4b8a-830e-595e8a173462</webElementGuid>
+      <webElementGuid>59782f41-7987-43e9-ad9a-768e5d413aea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>281bcd23-9a9f-466e-81b9-d6d0b3090f72</webElementGuid>
+      <webElementGuid>0d65a891-6adb-428e-ac62-3e45dbad199a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'notes' and @id = 'ffInput_notes' and @placeholder = 'Notes']</value>
-      <webElementGuid>0a670abf-cd48-4c80-8b86-d44a70e0e1bf</webElementGuid>
+      <webElementGuid>5fa873ae-5061-42fc-9f8e-0fdc2dbbec67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

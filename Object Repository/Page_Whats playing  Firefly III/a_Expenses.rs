@@ -6,12 +6,12 @@
    <elementGuidId>c2d08ea6-ac5b-49df-8128-d745d6c792b7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='transaction-menu']/ul/li/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>ul.treeview-menu > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='transaction-menu']/ul/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5b64714b-3624-4cde-bc6c-1588f65a1eb5</webElementGuid>
+      <webElementGuid>ac04f1fd-cb6f-4b64-a670-211c38729408</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://localhost:8080/transactions/withdrawal</value>
-      <webElementGuid>7ac6aac5-29f8-479c-9c90-0756d40a303f</webElementGuid>
+      <value>http://ec2-3-26-8-206.ap-southeast-2.compute.amazonaws.com/transactions/withdrawal</value>
+      <webElementGuid>105b4f9e-0bda-4a02-9ccf-83c262cc8938</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
                     
                     Expenses
                 </value>
-      <webElementGuid>40ff68c0-b9f5-4660-afab-7520b24d5dc0</webElementGuid>
+      <webElementGuid>18133243-90d0-43b8-b54d-9a13898969e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;transaction-menu&quot;)/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]</value>
-      <webElementGuid>118d230a-8cc4-4cae-a8f9-18ce9efdb9ec</webElementGuid>
+      <webElementGuid>173ead0c-cd7f-4694-9bf4-0f5ec2df38e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,37 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='transaction-menu']/ul/li/a</value>
-      <webElementGuid>a12025c4-e013-4331-895e-f7c40b8d16fa</webElementGuid>
+      <webElementGuid>9bf03f6f-1cfe-4386-ad27-93cbdebbfae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://ec2-3-26-8-206.ap-southeast-2.compute.amazonaws.com/transactions/withdrawal']</value>
+      <webElementGuid>29cd5e9d-475b-4446-835a-38a29980f6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li/a</value>
+      <webElementGuid>24090b40-15d6-425f-a1fa-12ddc840ba59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://ec2-3-26-8-206.ap-southeast-2.compute.amazonaws.com/transactions/withdrawal' and (text() = '
+                    
+                    Expenses
+                ' or . = '
+                    
+                    Expenses
+                ')]</value>
+      <webElementGuid>4a36d4c5-1bec-457d-b40d-7a9e241e0058</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,14 +96,6 @@
       <type>Main</type>
       <value>//a[@href='http://localhost:8080/transactions/withdrawal']</value>
       <webElementGuid>4e0095ae-871e-46f2-804f-066cfdd919d2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[7]/ul/li/a</value>
-      <webElementGuid>2bc81e79-2782-4d51-b8c5-8af85ddb869e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

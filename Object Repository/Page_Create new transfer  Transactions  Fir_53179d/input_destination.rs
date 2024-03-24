@@ -6,12 +6,12 @@
    <elementGuidId>33b9c720-a79b-435c-96a6-54a1e0b6b72d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='destination[]']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;destination[]&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='destination[]']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d34e6fac-2aee-43fd-983b-44fe3a7b2bd2</webElementGuid>
+      <webElementGuid>9e1ea215-1f27-4ffa-a5ff-98e7953200c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>37ce6a7f-b60c-47b4-a6b3-e821f7da83b5</webElementGuid>
+      <webElementGuid>ecc39bf1-9722-43f2-a352-f9baaede683c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>4f0c3769-7797-458a-8e26-d98e956a44b1</webElementGuid>
+      <webElementGuid>60662ecf-2941-4e7c-83d4-ac431ed2c33c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>destination[]</value>
-      <webElementGuid>c587c187-8eaf-42b4-b281-4ff5f4daa0da</webElementGuid>
+      <webElementGuid>5f5dd876-6020-4a3b-b996-63ba7ee4e0c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Destination account</value>
-      <webElementGuid>9f80cf8f-ed7e-4dae-8219-5eaaac4a318f</webElementGuid>
+      <webElementGuid>8f0383dc-d7ff-4783-bb3d-3fa60e4d15c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Destination account</value>
-      <webElementGuid>b60c7674-96fc-418e-af15-78855d7e5ae4</webElementGuid>
+      <webElementGuid>65a8da71-b595-457e-8c3a-364e8cbac448</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>e529cc75-c5f1-46c4-9766-fd5bd61d5274</webElementGuid>
+      <webElementGuid>fdded4d5-b3e6-4aa8-b254-62558dd418f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>56d9f79b-43a8-4073-a67e-7867f6fd9e1f</webElementGuid>
+      <webElementGuid>c392df2d-725b-4fc3-931b-73c626189e17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>99b56579-b4d1-4e0d-918c-cd40fa7eda43</webElementGuid>
+      <webElementGuid>fbed6318-0463-446b-b920-645fe7cf8124</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>d3b788b6-a135-4580-8007-d5389dae5d78</webElementGuid>
+      <webElementGuid>487ec25b-4ce4-4717-a56e-93f3ccd2abd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;transaction-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>e4472e98-7e33-4a52-9782-65836c75f378</webElementGuid>
+      <webElementGuid>5f10f7bc-ca73-4afa-a204-ebdaa03cc337</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='destination[]']</value>
-      <webElementGuid>9a74453b-9cff-43e6-bb2b-a945f8b30bb3</webElementGuid>
+      <webElementGuid>46737cbf-9ddf-4d3f-ac65-b7169e1ddbe0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='transaction-info']/div[3]/div[2]/div/input</value>
-      <webElementGuid>b3bcd003-5c95-47a8-9bda-f06ae1001d41</webElementGuid>
+      <webElementGuid>abd7ce12-3b23-44b2-b30b-7eb3046ff173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/input</value>
-      <webElementGuid>b5a62265-fc2f-49dc-8129-ff30f2c6df77</webElementGuid>
+      <webElementGuid>7e385426-7ae3-4d6b-a902-59d58296c2a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'destination[]' and @placeholder = 'Destination account' and @title = 'Destination account' and @type = 'text']</value>
-      <webElementGuid>51dbfcb9-a157-4520-9fd1-d966b340a0b4</webElementGuid>
+      <webElementGuid>b9335b26-09f3-4bf1-bfc4-69763575b089</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

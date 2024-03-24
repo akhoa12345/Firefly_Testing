@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:8080/login')
+WebUI.navigateToUrl('http://ec2-3-26-8-206.ap-southeast-2.compute.amazonaws.com')
 
 WebUI.setText(findTestObject('Object Repository/Page_Login to Firefly III/input_email'), 'phunganhkhoa12345@gmail.com')
 
@@ -31,8 +31,8 @@ WebUI.click(findTestObject('Object Repository/Page_Whats playing  Firefly III/a_
 
 WebUI.click(findTestObject('Object Repository/Page_Piggy banks  Firefly III/a_Create new piggy bank'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_New piggy bank  Piggy banks  Firefly III/select_ACB BankACB Bank savings accountCash wallet'), 
-    '4', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_New piggy bank  Piggy banks  Firefly III/select_ACB BankChecking AccountSavings Acco_f60ddf'), 
+    '29', true)
 
 WebUI.setText(findTestObject('Object Repository/Page_New piggy bank  Piggy banks  Firefly III/input_targetamount'), '450')
 

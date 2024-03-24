@@ -6,12 +6,12 @@
    <elementGuidId>5b58cfac-68f9-4b75-bce0-4b42373c3815</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='source[]']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;source[]&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='source[]']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d9fe08b7-9236-4405-b2cf-5b8e1097e39d</webElementGuid>
+      <webElementGuid>538c065a-1454-4c08-9f5e-8329eab24be1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>326dac3b-6c6a-444e-81f8-fad73f5454a7</webElementGuid>
+      <webElementGuid>5b986ddc-8f8f-44a8-a270-42f79ddc9d44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f6ef66fe-ffb1-4aad-8823-3c0f76a7db10</webElementGuid>
+      <webElementGuid>ab438bbf-febb-4fa6-ad21-e1c94ca5220f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>source[]</value>
-      <webElementGuid>6c0e3ec4-44bc-4dd4-ab79-989e8ad0e0cc</webElementGuid>
+      <webElementGuid>9b0c31c1-8016-4bee-a9e8-598a356c8a5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Source account</value>
-      <webElementGuid>01efe962-3e02-4333-a7cb-2c07f862ea28</webElementGuid>
+      <webElementGuid>e8bc2268-8069-45da-97a6-b5252e6f5555</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Source account</value>
-      <webElementGuid>41d368aa-0309-45ec-b4a3-64013de1e72f</webElementGuid>
+      <webElementGuid>67bd2559-f633-46e7-9ed2-2776d3679e32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>293cb5ff-36f1-4980-90f1-692401bf0a68</webElementGuid>
+      <webElementGuid>e2e88fbd-5bb7-46a3-a714-bd73d43c7bd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f8211106-3531-4b54-9a98-714433b30200</webElementGuid>
+      <webElementGuid>5034178d-964a-43d3-bc24-8b61c305f2ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b49b2479-f1bd-4280-a16f-447029d01a4f</webElementGuid>
+      <webElementGuid>af89fe34-6abc-412d-9cab-20c0b0531af8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>7f02c7c4-579c-440c-94b5-bc267d055c27</webElementGuid>
+      <webElementGuid>7d3d51e2-8f4c-41af-bbdb-b1d2609b385c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;transaction-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>4dd80409-6e16-4f48-a697-96f1b24288bd</webElementGuid>
+      <webElementGuid>872a6c0c-2876-4da4-adc6-7c10bcc2c0ca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='source[]']</value>
-      <webElementGuid>baea75ad-946d-4955-95c4-1ac7de0b052d</webElementGuid>
+      <webElementGuid>7ad19dea-c1c9-4362-b69b-3a61ff976c32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='transaction-info']/div[2]/div[2]/div/input</value>
-      <webElementGuid>cb00a41e-6800-47a0-86ff-698fbab99850</webElementGuid>
+      <webElementGuid>6e2724ce-2f4c-479b-ae20-c839260b209e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/input</value>
-      <webElementGuid>6c63b430-e02f-4f45-a081-0cecfbd82480</webElementGuid>
+      <webElementGuid>86b984e5-dfc9-480b-bafc-cbac666f2e0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'source[]' and @placeholder = 'Source account' and @title = 'Source account' and @type = 'text']</value>
-      <webElementGuid>569bc55c-3c8f-42c1-96d2-98cac03edc34</webElementGuid>
+      <webElementGuid>9a4ab42c-e4e8-4007-9bec-419dead6d15e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

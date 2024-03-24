@@ -6,12 +6,12 @@
    <elementGuidId>cf38d2d9-6ee6-4c5c-879e-9b233cdab1ab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='category[]']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;category[]&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='category[]']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>493c3d54-dc6b-46ef-9548-778a6371e675</webElementGuid>
+      <webElementGuid>3a3720c8-dec0-457c-ba41-851176dd4422</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a5a703ec-f321-49a6-834b-2743b0ef8423</webElementGuid>
+      <webElementGuid>e52dc60a-046f-4508-80fa-33bf2acb1843</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>aa7c16e3-9f45-499d-8823-1cba80584964</webElementGuid>
+      <webElementGuid>8eba89d1-f1e2-46c1-9512-5f1998f452a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6f696416-0a28-4db5-8174-61866a13056a</webElementGuid>
+      <webElementGuid>6e978c3f-f17e-4b5d-9dad-dca4d4d15915</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>category[]</value>
-      <webElementGuid>c97f126e-357c-43d2-9474-1c3b75541d9b</webElementGuid>
+      <webElementGuid>1bab2fed-5e81-45bb-8445-d81697c748fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>045a814b-3673-4c6d-853b-374d63551202</webElementGuid>
+      <webElementGuid>86b43967-60fd-4d7d-bd84-99c478b902f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Category</value>
-      <webElementGuid>2f4230d0-b581-4071-bcea-1edabad4fc05</webElementGuid>
+      <webElementGuid>f128993f-9c21-421b-abc0-e67bbf3233f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Category</value>
-      <webElementGuid>f715d7b2-9230-4f13-a7a3-ca88d64d79a0</webElementGuid>
+      <webElementGuid>33c63b75-9b32-491b-8add-d96e987213fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>2a5347f6-6127-463b-adcd-5294d916a738</webElementGuid>
+      <webElementGuid>e2d1db67-0b29-4c5c-aa4d-83fedc97199c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;optional-info&quot;)/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>e9c9ef71-3e14-4ffa-b2f3-e290cab18322</webElementGuid>
+      <webElementGuid>632a9dbe-cce7-470a-9c9a-5994bd3263a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='category[]']</value>
-      <webElementGuid>780d7ff2-5c9a-4188-8eff-76e7322dbd9a</webElementGuid>
+      <webElementGuid>950151ee-79fc-4210-abf8-a389703bb28a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='optional-info']/div/div[2]/div/input</value>
-      <webElementGuid>6ab86011-b747-4444-bfa5-143a90da1a12</webElementGuid>
+      <webElementGuid>a7320c7e-b90d-4ff7-a3aa-b7673fee6fdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div/input</value>
-      <webElementGuid>a0849e87-1b45-4228-92f7-8fb8c9768473</webElementGuid>
+      <webElementGuid>6e18a0b0-118a-4d69-b595-8327fe214df5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'category[]' and @type = 'text' and @placeholder = 'Category' and @title = 'Category']</value>
-      <webElementGuid>33de9711-f6bc-4e46-b1e1-1a8a3cd40aff</webElementGuid>
+      <webElementGuid>cf549453-c225-4b0b-a584-f406500cb7cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
