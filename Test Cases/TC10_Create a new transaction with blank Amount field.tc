@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC10_Create a new transaction with blank Amount field</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c6211b0d-dc48-4147-80e8-50a1ecc165cc</testCaseGuid>
-</TestCaseEntity>
