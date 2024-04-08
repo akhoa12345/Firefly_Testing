@@ -1,0 +1,21 @@
+name,currency,minimum_amount,maxmimum_amount,date,repeats,skip
+Utility bill,1,13.41,92.49,5/6/2023,5,6
+Phone bill,0,15.93,94.42,3/24/2023,1,4
+Internet bill,0,13.54,81.55,1/17/2023,5,4
+Credit card bill,1,17.72,38.79,3/14/2023,0,5
+Water bill,2,19.25,36.22,7/29/2023,4,10
+Electricity bill,0,14.43,96.7,7/19/2023,5,7
+Gas bill,1,11.26,49.16,5/17/2023,3,6
+Rent bill,0,19.38,95.41,5/17/2023,3,8
+Mortgage bill,2,11.58,69.45,9/24/2023,1,8
+Insurance bill,2,13,66.03,10/31/2023,1,8
+Medical bill,2,18.68,59.88,7/3/2023,5,4
+Gym membership bill,0,18.76,61.01,12/10/2023,3,8
+Streaming service bill,1,19.94,44.63,10/8/2023,2,7
+Cable bill,2,12.29,92.47,12/26/2023,1,2
+Car payment bill,0,13.92,95.15,9/14/2023,4,9
+Student loan bill,1,13.25,37.82,4/7/2023,4,5
+Home loan bill,0,18.97,66.31,4/11/2023,3,6
+Subscription bill,1,10.3,58.39,3/29/2023,4,7
+Membership bill,0,14.57,35.86,7/1/2023,1,9
+Parking bill,2,12.71,69.94,2/23/2023,4,1

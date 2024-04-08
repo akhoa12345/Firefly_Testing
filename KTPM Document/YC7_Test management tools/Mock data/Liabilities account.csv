@@ -1,0 +1,51 @@
+name,currency,liability type,I owe amount,Liability in/out,Start date of debt,Interest,Interest period
+Accounts Payable,US Dollar ($),Mortgage,-23.09,I owe this debt to somebody else,1/1/2024,19.7,Per year
+Accrued Expenses,Euro (€),Debt,80.63,I owe this debt to somebody else,1/18/2024,14,Per year
+Deferred Revenue,US Dollar ($),Loan,55.01,I am owed this debt,1/26/2024,8.16,Per month
+Long-term Debt,Euro (€),Loan,-67.53,I am owed this debt,1/26/2024,15.74,Per year
+Notes Payable,British Pound (£),Loan,-26.41,I owe this debt to somebody else,1/1/2024,4.76,Per day
+Mortgage Payable,Euro (€),Mortgage,-36.23,I am owed this debt,1/20/2024,20,Per year
+Income Taxes Payable,US Dollar ($),Mortgage,69.88,I owe this debt to somebody else,1/4/2024,9.85,Per month
+Sales Tax Payable,British Pound (£),Debt,-0.68,I owe this debt to somebody else,1/6/2024,19.9,Per month
+Warranty Liability,US Dollar ($),Mortgage,-91.8,I owe this debt to somebody else,1/27/2024,10.69,Per month
+Customer Deposits,US Dollar ($),Mortgage,16.39,I owe this debt to somebody else,1/13/2024,10.9,Per day
+Employee Benefits Payable,Euro (€),Loan,-35.58,I am owed this debt,1/4/2024,8.13,Per month
+Interest Payable,British Pound (£),Loan,-40.51,I am owed this debt,1/23/2024,4.29,Per day
+Rent Payable,US Dollar ($),Debt,78.85,I am owed this debt,1/11/2024,4.24,Per year
+Utilities Payable,British Pound (£),Loan,72.37,I am owed this debt,1/18/2024,11.33,Per day
+Insurance Payable,British Pound (£),Loan,-6.25,I am owed this debt,1/2/2024,5.68,Per month
+Pension Liability,US Dollar ($),Loan,-33.54,I am owed this debt,1/15/2024,13.54,Per year
+Lease Liability,US Dollar ($),Loan,-70.08,I owe this debt to somebody else,1/19/2024,4.65,Per year
+Contingent Liabilities,US Dollar ($),Loan,-12.81,I am owed this debt,1/7/2024,4.01,Per month
+Derivative Liabilities,US Dollar ($),Debt,-77.56,I am owed this debt,1/3/2024,15.37,Per year
+Deferred Tax Liability,Euro (€),Mortgage,-39.55,I owe this debt to somebody else,1/14/2024,17.23,Per day
+Litigation Liability,British Pound (£),Loan,3.63,I am owed this debt,1/3/2024,18.52,Per year
+Environmental Liability,US Dollar ($),Mortgage,51.33,I am owed this debt,1/24/2024,4.15,Per day
+Product Warranty Liability,US Dollar ($),Debt,-51.47,I owe this debt to somebody else,1/20/2024,13.63,Per year
+Healthcare Liability,British Pound (£),Mortgage,80.43,I owe this debt to somebody else,1/1/2024,1.36,Per year
+Legal Settlement Liability,British Pound (£),Loan,-76.72,I owe this debt to somebody else,1/10/2024,17.43,Per year
+Loss Contingency Liability,US Dollar ($),Debt,-94.61,I am owed this debt,1/22/2024,3.86,Per month
+Contractual Liability,Euro (€),Debt,20.71,I am owed this debt,1/10/2024,5.94,Per month
+Guarantee Liability,British Pound (£),Mortgage,-15.21,I owe this debt to somebody else,1/17/2024,7.13,Per day
+Government Grant Liability,British Pound (£),Loan,22.51,I owe this debt to somebody else,1/14/2024,15.79,Per year
+Deferred Compensation Liability,British Pound (£),Mortgage,17.16,I am owed this debt,1/29/2024,7.65,Per day
+Unearned Revenue,US Dollar ($),Mortgage,-51.64,I am owed this debt,1/26/2024,1.49,Per year
+Debt Issuance Costs,US Dollar ($),Mortgage,22.3,I am owed this debt,1/30/2024,2.53,Per day
+Convertible Debt,British Pound (£),Loan,-37.56,I owe this debt to somebody else,1/24/2024,16.32,Per year
+Operating Lease Liability,British Pound (£),Loan,-71.67,I owe this debt to somebody else,1/20/2024,15.45,Per year
+Finance Lease Liability,US Dollar ($),Loan,68.75,I am owed this debt,1/2/2024,7.22,Per day
+Construction Warranty Liability,British Pound (£),Mortgage,9.61,I owe this debt to somebody else,1/13/2024,13.81,Per day
+Performance Bond Liability,Euro (€),Mortgage,-5.48,I owe this debt to somebody else,1/24/2024,19.35,Per day
+Surety Bond Liability,Euro (€),Debt,31.91,I am owed this debt,1/18/2024,8.42,Per year
+Workers' Compensation Liability,Euro (€),Loan,13.34,I owe this debt to somebody else,1/25/2024,7,Per day
+Product Liability,British Pound (£),Debt,65.8,I am owed this debt,1/7/2024,16.73,Per day
+Professional Liability,Euro (€),Mortgage,-32.32,I owe this debt to somebody else,1/25/2024,5.04,Per day
+Fidelity Bond Liability,Euro (€),Loan,-52.72,I am owed this debt,1/2/2024,14.24,Per month
+Employment Practices Liability,Euro (€),Loan,84.52,I am owed this debt,1/26/2024,14.16,Per month
+Directors and Officers Liability,British Pound (£),Loan,93.96,I owe this debt to somebody else,1/4/2024,5.84,Per month
+Cyber Liability,US Dollar ($),Loan,-45.47,I am owed this debt,1/16/2024,13.84,Per day
+Data Breach Liability,Euro (€),Debt,-93.82,I owe this debt to somebody else,1/24/2024,16.34,Per day
+Intellectual Property Liability,US Dollar ($),Debt,-36.29,I owe this debt to somebody else,1/28/2024,18.83,Per month
+Advertising Liability,US Dollar ($),Debt,56.56,I am owed this debt,1/30/2024,9.97,Per month
+Environmental Remediation Liability,Euro (€),Debt,-59.73,I am owed this debt,1/9/2024,13.5,Per year
+Lawsuit Liability,British Pound (£),Debt,-42.08,I am owed this debt,1/4/2024,7.04,Per year

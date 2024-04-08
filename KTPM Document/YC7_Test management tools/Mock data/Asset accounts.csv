@@ -1,0 +1,21 @@
+name,currency
+checking,2
+savings,0
+credit card,0
+investment,0
+loan,1
+mortgage,0
+line of credit,1
+certificate of deposit,0
+money market,0
+retirement,2
+health savings account,2
+education savings account,1
+business account,1
+trust account,0
+custodial account,2
+brokerage account,1
+pension account,2
+annuity account,2
+insurance account,0
+prepaid card,0
